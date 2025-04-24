@@ -3,13 +3,7 @@ pandas
 plotly
 matplotlib
 openpyxl
-streamlit
-opencv-python-headless  # Use headless version for servers/cloud
-numpy
-tensorflow
-imghdr # Although standard, sometimes explicitly listing helps
-streamlit
 opencv-python-headless
 numpy
 tensorflow
-Pillow # Good practice to include explicitly for image tasks
+Pillow
