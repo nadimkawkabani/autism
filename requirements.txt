@@ -1,9 +1,9 @@
-streamlit
-pandas
-plotly
-matplotlib
-openpyxl
-opencv-python-headless
-numpy
-tensorflow
-Pillow
+streamlit==1.44.1
+pandas==2.2.3
+plotly==6.0.1
+matplotlib==3.10.1
+openpyxl==3.1.5
+opencv-python-headless==4.11.0.86
+numpy # Let tensorflow pin this if needed, or specify e.g., numpy==1.26.4
+tensorflow==2.16.1 # Try an older stable version
+Pillow==10.4.0 # Example Pillow version
