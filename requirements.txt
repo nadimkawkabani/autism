@@ -3,3 +3,8 @@ pandas
 plotly
 matplotlib
 openpyxl
+streamlit
+opencv-python-headless  # Use headless version for servers/cloud
+numpy
+tensorflow
+imghdr # Although standard, sometimes explicitly listing helps
