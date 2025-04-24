@@ -30,7 +30,7 @@ def preprocess_image(image):
     return img_array
 
 # Load the saved model
-model = load_model('/Users/eliesayegh/Desktop/Streamlit/model.h5')
+model = load_model('model.h5')
 
 # Set page configuration and styling
 st.set_page_config(page_title='Facial Expression Recognition App - MSBA315', page_icon=':smiley:', layout='wide')
