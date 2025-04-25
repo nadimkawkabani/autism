@@ -39,7 +39,7 @@ st.write('<style>body{background-color: #f5f5f5;}</style>', unsafe_allow_html=Tr
 # Define the Streamlit app
 def main():
     st.title('MSBA315: Machine Learning and Predictive Analytics')
-    st.title('Facial Expression Recognition App')
+    st.title('Using Machine Learning to Identify Autism:  An Analysis of Predictive Models and Facial Expression Classification APP ')
     st.header('Amira - Dania - Nadim - Yasmina')
     # Upload an image file
     uploaded_file = st.file_uploader('Choose an image', type=['jpg', 'jpeg', 'png'])
